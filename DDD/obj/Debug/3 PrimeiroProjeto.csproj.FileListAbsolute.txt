@@ -1,0 +1,6 @@
+C:\Users\paola\source\repos\1 PrimeiroProjeto\3 PrimeiroProjeto\bin\Debug\3 PrimeiroProjeto.exe.config
+C:\Users\paola\source\repos\1 PrimeiroProjeto\3 PrimeiroProjeto\bin\Debug\3 PrimeiroProjeto.exe
+C:\Users\paola\source\repos\1 PrimeiroProjeto\3 PrimeiroProjeto\bin\Debug\3 PrimeiroProjeto.pdb
+C:\Users\paola\source\repos\1 PrimeiroProjeto\3 PrimeiroProjeto\obj\Debug\3 PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\paola\source\repos\1 PrimeiroProjeto\3 PrimeiroProjeto\obj\Debug\3 PrimeiroProjeto.exe
+C:\Users\paola\source\repos\1 PrimeiroProjeto\3 PrimeiroProjeto\obj\Debug\3 PrimeiroProjeto.pdb

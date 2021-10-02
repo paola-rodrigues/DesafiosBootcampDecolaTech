@@ -1,0 +1,7 @@
+C:\Users\paola\source\repos\1 PrimeiroProjeto\5- NumeroImpares\bin\Debug\5- NumeroImpares.exe.config
+C:\Users\paola\source\repos\1 PrimeiroProjeto\5- NumeroImpares\bin\Debug\5- NumeroImpares.exe
+C:\Users\paola\source\repos\1 PrimeiroProjeto\5- NumeroImpares\bin\Debug\5- NumeroImpares.pdb
+C:\Users\paola\source\repos\1 PrimeiroProjeto\5- NumeroImpares\obj\Debug\5- NumeroImpares.csproj.AssemblyReference.cache
+C:\Users\paola\source\repos\1 PrimeiroProjeto\5- NumeroImpares\obj\Debug\5- NumeroImpares.csproj.CoreCompileInputs.cache
+C:\Users\paola\source\repos\1 PrimeiroProjeto\5- NumeroImpares\obj\Debug\5- NumeroImpares.exe
+C:\Users\paola\source\repos\1 PrimeiroProjeto\5- NumeroImpares\obj\Debug\5- NumeroImpares.pdb
